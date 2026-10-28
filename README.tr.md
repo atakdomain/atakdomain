@@ -6,6 +6,8 @@ Web sitesi: https://www.atakdomain.com
 <p align="right">
 <a href="https://github.com/atakdomain/atakdomain/blob/main/README.tr.md"><img src="./assets/lang-tr-on.svg" height="36" alt="Türkçe"></a>
 <a href="https://github.com/atakdomain"><img src="./assets/lang-en-off.svg" height="36" alt="English"></a>
+<a href="https://github.com/atakdomain/atakdomain/blob/main/README.de.md"><img src="./assets/lang-de-off.svg" height="36" alt="Deutsch"></a>
+<a href="https://github.com/atakdomain/atakdomain/blob/main/README.ru.md"><img src="./assets/lang-ru-off.svg" height="36" alt="Русский"></a>
 </p>
 
 <a href="https://www.atakdomain.com"><img src="./assets/hero-tr.svg" width="1200" alt="Atak Domain, 2003'ten beri ICANN akrediteli domain kayıt kuruluşu (IANA ID 1601). Domain, hosting, kurumsal e-posta ve SSL."></a>
@@ -45,7 +47,7 @@ Atak Domain, kurumsal domain tescili ve ülke kodlu (ccTLD) domain portföy yön
 
 ## <a name="h-steps"><img src="./assets/h-steps.svg" width="30" height="30" alt=""></a> Dört Adımda Yayındasınız
 
-Alan adınızdan e-postanıza kadar ihtiyacınız olan her şey tek yerde.
+Domaininizden e-postanıza kadar ihtiyacınız olan her şey tek yerde.
 
 <img src="./assets/steps-tr.svg" width="1200" alt="Dört adımda yayındasınız: 1 domain, 2 hosting, 3 kurumsal e-posta, 4 SSL.">
 
@@ -121,3 +123,19 @@ Evet. Bayi fiyatlarıyla müşterilerinize satın; REST API ile ya da WHMCS ve H
 <a href="https://www.icann.org/en/contracted-parties/accredited-registrars/list-of-accredited-registrars?page=1&amp;iana-number=1601"><img src="./assets/btn-icann-tr.svg" height="34" alt="ICANN'da doğrula"></a>
 <a href="https://www.domainnameapi.com"><img src="./assets/btn-dna.svg" height="34" alt="Domain Name API"></a>
 </p>
+
+## <a name="h-links"><img src="./assets/h-links.svg" width="30" height="30" alt=""></a> Bağlantılar
+
+Atak Domain hizmetlerine, popüler domain uzantılarına ve ücretsiz araçlara hızlı erişim.
+
+**Domain:** [Domain sorgulama](https://www.atakdomain.com/domain-sorgulama) · [Ucuz domain](https://www.atakdomain.com/ucuz-domain) · [Domain fiyatları](https://www.atakdomain.com/domain-fiyatlari) · [Domain transfer](https://www.atakdomain.com/domain-transfer) · [Toplu domain sorgulama](https://www.atakdomain.com/toplu-domain-sorgulama) · [Whois sorgulama](https://www.atakdomain.com/whois-sorgulama) · [Ülke kodlu domain (ccTLD)](https://www.atakdomain.com/cctld-ulke-kodlu-domain) · [Domain uzantıları](https://www.atakdomain.com/tld-top-level-domain) · [Ücretsiz domain](https://www.atakdomain.com/ucretsiz-domain) · [Domain aracılık (broker)](https://www.atakdomain.com/domain-broker) · [Kurumsal domain yönetimi](https://www.atakdomain.com/domain-yonetimi) · [Domain vekillik hizmeti](https://www.atakdomain.com/vekillik-hizmeti) · [Domain reseller](https://www.atakdomain.com/domain-reseller)
+
+**Popüler uzantılar:** [.com domain satın al](https://www.atakdomain.com/domain-sorgulama/com) · [.com.tr domain tescil](https://www.atakdomain.com/domain-sorgulama/turkiye/com-tr) · [.tr domain satın al](https://www.atakdomain.com/domain-sorgulama/turkiye/tr) · [.net domain](https://www.atakdomain.com/domain-sorgulama/net) · [.org domain](https://www.atakdomain.com/domain-sorgulama/org) · [.ai domain kaydı](https://www.atakdomain.com/domain-sorgulama/anguilla/ai) · [.si domain kaydı](https://www.atakdomain.com/domain-sorgulama/slovenya/si) · [.io domain kaydı](https://www.atakdomain.com/domain-sorgulama/ingiliz-hint-okyanusu-topragi/io) · [.de domain tescil](https://www.atakdomain.com/domain-sorgulama/almanya/de)
+
+**Hosting:** [Web hosting](https://www.atakdomain.com/hosting) · [WordPress hosting](https://www.atakdomain.com/wordpress-hosting) · [Kurumsal hosting](https://www.atakdomain.com/kurumsal-hosting) · [Ucuz hosting](https://www.atakdomain.com/ucuz-hosting) · [Sınırsız hosting](https://www.atakdomain.com/limitsiz-hosting) · [cPanel hosting](https://www.atakdomain.com/cpanel-hosting) · [Linux hosting](https://www.atakdomain.com/linux-hosting) · [E-ticaret hosting](https://www.atakdomain.com/eticaret-hosting) · [Yönetilen hosting](https://www.atakdomain.com/yonetilen-hosting) · [Bayi hosting](https://www.atakdomain.com/bayi-hosting) · [Hosting fiyatları](https://www.atakdomain.com/hosting-fiyatlari)
+
+**E-posta ve SSL:** [Kurumsal e-posta](https://www.atakdomain.com/kurumsal-eposta) · [SSL sertifikası](https://www.atakdomain.com/ssl-sertifikasi) · [RapidSSL](https://www.atakdomain.com/ssl-sertifikasi/rapidssl-ssl) · [DigiCert SSL](https://www.atakdomain.com/ssl-sertifikasi/digicert-ssl) · [Sectigo SSL](https://www.atakdomain.com/ssl-sertifikasi/sectigo-ssl) · [Comodo SSL](https://www.atakdomain.com/ssl-sertifikasi/comodo-ssl) · [GeoTrust SSL](https://www.atakdomain.com/ssl-sertifikasi/geotrust-ssl) · [GlobalSign SSL](https://www.atakdomain.com/ssl-sertifikasi/globalsign-ssl)
+
+**Ücretsiz araçlar:** [DNS sorgulama](https://www.atakdomain.com/dns-sorgulama) · [IP sorgulama](https://www.atakdomain.com/ip-sorgulama) · [MX sorgulama](https://www.atakdomain.com/mx-sorgulama) · [SPF sorgulama](https://www.atakdomain.com/spf-sorgulama) · [DKIM sorgulama](https://www.atakdomain.com/dkim-sorgulama) · [DMARC sorgulama](https://www.atakdomain.com/dmarc-sorgulama) · [IDN çevirici](https://www.atakdomain.com/idn-cevirici) · [CSR decoder](https://www.atakdomain.com/csr-decoder)
+
+**Rehberler:** [Domain nedir?](https://www.atakdomain.com/blog/domain-nedir-alan-adlari-hakkinda-bilmeniz-gereken-her-sey) · [Hosting nedir?](https://www.atakdomain.com/blog/hosting-nedir) · [SSL nedir?](https://www.atakdomain.com/blog/ssl-nedir) · [E-posta nedir?](https://www.atakdomain.com/blog/e-posta-nedir-neden-e-posta-adresi-kullanmaliyiz) · [Reseller nedir?](https://www.atakdomain.com/blog/reseller-ne-demek-domain-hosting-reseller)

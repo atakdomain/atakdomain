@@ -6,6 +6,8 @@ Website: https://www.atakdomain.com
 <p align="right">
 <a href="https://github.com/atakdomain/atakdomain/blob/main/README.tr.md"><img src="./assets/lang-tr-off.svg" height="36" alt="Türkçe"></a>
 <a href="https://github.com/atakdomain"><img src="./assets/lang-en-on.svg" height="36" alt="English"></a>
+<a href="https://github.com/atakdomain/atakdomain/blob/main/README.de.md"><img src="./assets/lang-de-off.svg" height="36" alt="Deutsch"></a>
+<a href="https://github.com/atakdomain/atakdomain/blob/main/README.ru.md"><img src="./assets/lang-ru-off.svg" height="36" alt="Русский"></a>
 </p>
 
 <a href="https://www.atakdomain.com/en"><img src="./assets/hero.svg" width="1200" alt="Atak Domain, ICANN-accredited domain registrar since 2003 (IANA ID 1601). Domains, hosting, business e-mail and SSL."></a>
@@ -121,3 +123,19 @@ Yes. Sell to your customers at reseller prices and automate registrations and re
 <a href="https://www.icann.org/en/contracted-parties/accredited-registrars/list-of-accredited-registrars?page=1&amp;iana-number=1601"><img src="./assets/btn-icann.svg" height="34" alt="Verify at ICANN"></a>
 <a href="https://www.domainnameapi.com"><img src="./assets/btn-dna.svg" height="34" alt="Domain Name API"></a>
 </p>
+
+## <a name="h-links"><img src="./assets/h-links.svg" width="30" height="30" alt=""></a> Links
+
+Quick access to Atak Domain services, popular domain extensions and free tools.
+
+**Domains:** [Domain name search](https://www.atakdomain.com/en/domain-name-search) · [Cheap domain names](https://www.atakdomain.com/en/cheap-domain) · [Domain prices](https://www.atakdomain.com/en/domain-prices) · [Domain transfer](https://www.atakdomain.com/en/domain-transfer) · [Bulk domain search](https://www.atakdomain.com/en/bulk-domain-name-search) · [Whois lookup](https://www.atakdomain.com/en/whois-search) · [Country code domains (ccTLD)](https://www.atakdomain.com/en/cctld-country-code-domain) · [Domain extensions](https://www.atakdomain.com/en/new-top-level-domains) · [Free domain](https://www.atakdomain.com/en/free-domain) · [Domain broker](https://www.atakdomain.com/en/domain-broker) · [Corporate domain management](https://www.atakdomain.com/en/domain-management) · [Domain trustee service](https://www.atakdomain.com/en/trustee-service) · [Domain reseller](https://www.atakdomain.com/en/domain-reseller)
+
+**Popular extensions:** [Buy a .com domain](https://www.atakdomain.com/en/domain-registration/com) · [.com.tr domain registration](https://www.atakdomain.com/en/domain-registration/turkey/com-tr) · [.tr domain registration](https://www.atakdomain.com/en/domain-registration/turkey/tr) · [.net domain name](https://www.atakdomain.com/en/domain-registration/net) · [.org domain name](https://www.atakdomain.com/en/domain-registration/org) · [.ai domain registration](https://www.atakdomain.com/en/domain-registration/anguilla/ai) · [.si domain registration](https://www.atakdomain.com/en/domain-registration/slovenia/si) · [.io domain registration](https://www.atakdomain.com/en/domain-registration/british-indian-ocean-territory/io) · [.de domain registration](https://www.atakdomain.com/en/domain-registration/germany/de)
+
+**Hosting:** [Web hosting](https://www.atakdomain.com/en/hosting) · [WordPress hosting](https://www.atakdomain.com/en/wordpress-hosting) · [Business hosting](https://www.atakdomain.com/en/business-hosting) · [Cheap hosting](https://www.atakdomain.com/en/cheap-hosting) · [Unlimited hosting](https://www.atakdomain.com/en/unlimited-hosting) · [cPanel hosting](https://www.atakdomain.com/en/cpanel-hosting) · [Linux hosting](https://www.atakdomain.com/en/linux-hosting) · [E-commerce hosting](https://www.atakdomain.com/en/ecommerce-hosting) · [Managed hosting](https://www.atakdomain.com/en/managed-hosting) · [Reseller hosting](https://www.atakdomain.com/en/reseller-hosting) · [Hosting prices](https://www.atakdomain.com/en/hosting-prices)
+
+**E-mail and SSL:** [Business e-mail](https://www.atakdomain.com/en/business-email) · [SSL certificates](https://www.atakdomain.com/en/ssl-certificate) · [RapidSSL](https://www.atakdomain.com/en/ssl-certificate/rapidssl-ssl) · [DigiCert SSL](https://www.atakdomain.com/en/ssl-certificate/digicert-ssl) · [Sectigo SSL](https://www.atakdomain.com/en/ssl-certificate/sectigo-ssl) · [Comodo SSL](https://www.atakdomain.com/en/ssl-certificate/comodo-ssl) · [GeoTrust SSL](https://www.atakdomain.com/en/ssl-certificate/geotrust-ssl) · [GlobalSign SSL](https://www.atakdomain.com/en/ssl-certificate/globalsign-ssl)
+
+**Free tools:** [DNS lookup](https://www.atakdomain.com/en/dns-lookup) · [What is my IP](https://www.atakdomain.com/en/what-is-my-ip) · [MX lookup](https://www.atakdomain.com/en/mx-lookup) · [SPF record checker](https://www.atakdomain.com/en/spf-search) · [DKIM record checker](https://www.atakdomain.com/en/dkim-search) · [DMARC record checker](https://www.atakdomain.com/en/dmarc-inquiry) · [IDN converter](https://www.atakdomain.com/en/idn-converter) · [CSR decoder](https://www.atakdomain.com/en/csr-decoder)
+
+**Guides:** [What is a domain name?](https://www.atakdomain.com/en/blog/what-is-a-domain-name) · [What is hosting?](https://www.atakdomain.com/en/blog/what-is-hosting-what-does-it-do-and-how-to-choose) · [What is an SSL certificate?](https://www.atakdomain.com/en/blog/what-is-an-ssl-certificate-how-does-it-do-and-how-does-it-work) · [What is e-mail?](https://www.atakdomain.com/en/blog/what-is-email-why-should-you-use-an-email-address) · [What is a reseller?](https://www.atakdomain.com/en/blog/what-is-a-reseller)
